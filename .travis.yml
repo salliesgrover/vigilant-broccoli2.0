@@ -221,8 +221,6 @@ jobs:
     - script: yarn hk652f13d
     - script: yarn hk652f13d
     - script: yarn hk652f13d
-    - script: yarn hk652f13d
-    - script: yarn hk652f13d
 
 stages:
   - test
